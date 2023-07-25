@@ -11,5 +11,4 @@ public class CurrencyConfig {
     public RestTemplate restTemplate() {
         return new RestTemplate();
     }
-
 }
